@@ -1,11 +1,6 @@
 <img width="1584" height="249" alt="Banbb" src="https://github.com/user-attachments/assets/a0ea6fd1-07de-4cb5-9934-eec024365bea" />
 
-<!-- Início da estrutura Lado a Lado -->
-<div align="center" style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap; gap: 20px; text-align: left;">
-  
-  <!-- Parte da Imagem -->
-  <!-- Dica: Arraste sua imagem para o editor do GitHub para gerar o link e cole abaixo -->
-<img width="264" height="328" alt="Ao lado" src="https://github.com/user-attachments/assets/3a416704-3fc2-4523-8934-5c7dd5d638bc" />
+<img align="right" width="264" height="328" alt="Ao lado" src="https://github.com/user-attachments/assets/3a416704-3fc2-4523-8934-5c7dd5d638bc" />
 
   <!-- Parte do Texto -->
   <div style="flex: 1; min-width: 300px;">
@@ -18,7 +13,6 @@
     </p>
   </div>
 </div>
-<!-- Fim da estrutura Lado a Lado -->
 
 <br>
 <hr>
