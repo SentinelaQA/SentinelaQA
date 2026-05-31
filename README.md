@@ -1,4 +1,5 @@
-<img width="1584" height="228" alt="Banner" src="https://github.com/user-attachments/assets/de63e1d7-14e9-4efc-91f9-00b4634fa7c9" />
+<img width="1584" height="249" alt="Banbb" src="https://github.com/user-attachments/assets/a0ea6fd1-07de-4cb5-9934-eec024365bea" />
+
 
 ### Olá! Eu sou a Yasmin Campos 👋
 
