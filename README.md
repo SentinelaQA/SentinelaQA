@@ -1,3 +1,5 @@
+<img width="1584" height="228" alt="Banner" src="https://github.com/user-attachments/assets/de63e1d7-14e9-4efc-91f9-00b4634fa7c9" />
+
 ### Olá! Eu sou a Yasmin Campos 👋
 
 **Analista de Qualidade Jr. | Engenharia de Processos | Estudante de Gestão de TI**
