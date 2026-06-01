@@ -27,7 +27,7 @@
 ### 🛠️ Tecnologias
 
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
@@ -38,9 +38,7 @@
 <p>
   <a href="https://www.linkedin.com/in/yasmindcampos/" target="_blank">
     <img src="https://files.catbox.moe/qlb3ok.png" width="45" />
-  </a>
-  &nbsp;
-  <a href="https://discordapp.com/users/922994417093189693" target="_blank">
+  </a><a href="https://discordapp.com/users/922994417093189693" target="_blank">
     <img src="https://files.catbox.moe/h2vgbu.png" width="45" />
   </a>
 </p>
