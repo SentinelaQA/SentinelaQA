@@ -6,7 +6,7 @@
 
 Sou apaixonada por conectar a excelência técnica à inovação. Meu objetivo é transformar processos complexos e Atendimentos em fluxos inteligentes, automatizados e baseados em dados.
 
-<a href="https://discordapp.com/users/922994417093189693" target="_blank"><img align="right" width="50" src="https://files.catbox.moe/h2vgbu.png" style="background: none; border: none; box-shadow: none; padding-left: 0; margin-left: 6px;"></a><a href="https://www.linkedin.com/in/yasmindcampos/" target="_blank"><img align="right" width="50" src="https://files.catbox.moe/qlb3ok.png" style="background: none; border: none; box-shadow: none; padding-left: 0; margin-left: 6px;"></a>
+<a href="https://discordapp.com/users/922994417093189693" target="_blank"><img align="right" width="50" src="https://files.catbox.moe/h2vgbu.png" style="background: none; border: none; box-shadow: none;"></a><a href="https://www.linkedin.com/in/yasmindcampos/" target="_blank"><img align="right" width="50" src="https://files.catbox.moe/qlb3ok.png" style="background: none; border: none; box-shadow: none;"></a>
 
 • 🔭 **Desenvolvendo:** Ferramentas de automação como o projeto **Checklist Master**.<br>
 • 🌱 **Estudando:** Gestão da Tecnologia da Informação (PUCRS). <br>
