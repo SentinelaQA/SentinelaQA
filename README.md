@@ -1,25 +1,16 @@
-<img width="1584" height="249" alt="Banbb" src="https://github.com/user-attachments/assets/a0ea6fd1-07de-4cb5-9934-eec024365bea" />
+ <img align="right" width="204" src="https://github.com/user-attachments/assets/71197488-4b3e-4ab0-99d8-e024abde0212" style="background: none; border: none; box-shadow: none;">
+ 
+### Olá! Eu sou a Yasmin 👋
 
-<img align="right" width="264" height="328" alt="Ao lado" src="https://github.com/user-attachments/assets/3a416704-3fc2-4523-8934-5c7dd5d638bc" />
+<img align="left" width="384" src="https://files.catbox.moe/19gg60.png" style="background: none; border: none; box-shadow: none;"><br>
 
-  <!-- Parte do Texto -->
-  <div style="flex: 1; min-width: 300px;">
-    <h1>Olá! Eu sou a Yasmin Campos 👋</h1>
-    <p>
-      <b>Analista de Qualidade Jr. | Engenharia de Processos | Estudante de Gestão de TI</b>
-    </p>
-    <p>
-      Profissionalmente, sou apaixonada por inovação e otimização de processos. Minha atuação foca na criação de fluxos inteligentes e no desenvolvimento de soluções tecnológicas, como o projeto <b>SentinelaQA</b>. Acredito no poder da disseminação do conhecimento, sendo uma das idealizadoras da <b>Equipe BCK - QA & Learning</b>. Atualmente, estou expandindo meus horizontes acadêmicos na PUCRS.
-    </p>
-  </div>
-</div>
+Sou apaixonada por conectar a excelência técnica à inovação. Meu objetivo é transformar processos complexos e Atendimentos em fluxos inteligentes, automatizados e baseados em dados.
 
-<br>
-<hr>
-<br>
+• 🔭 **Desenvolvendo:** Ferramentas de automação como o projeto **Checklist Master**.<br>
+• 🌱 **Estudando:** Gestão da Tecnologia da Informação (PUCRS). <br>
+• 🤝 **Iniciativas:** Co-criadora da **Equipe BCK - QA & Learning**. <br>
 
-### ✨ Mais sobre mim
-
-• 🚀 **Foco atual:** Automação de Checklists, Análise de KPIs e Governança de TI.
-• 🌱 **Estudando:** Soluções Cloud na graduação de Gestão de TI (PUCRS).
-• 🎮 **Lazer:** Apaixonada por games (Hogwarts Legacy), Nu Metal, leitura (Kafka) e cinema.
+<p align="right">
+  <img src="https://img.shields.io/badge/Qualidade-00599C?style=for-the-badge&logo=quality&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</p>
