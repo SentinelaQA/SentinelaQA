@@ -2,7 +2,7 @@
  
 ### Olá! Eu sou a Yasmin 👋
 
-<img align="left" width="384" src="https://files.catbox.moe/19gg60.png" style="background: none; border: none; box-shadow: none;"><br>
+<img align="left" width="414" src="https://files.catbox.moe/19gg60.png" style="background: none; border: none; box-shadow: none;"><br>
 
 Sou apaixonada por conectar a excelência técnica à inovação. Meu objetivo é transformar processos complexos e Atendimentos em fluxos inteligentes, automatizados e baseados em dados.
 
@@ -11,6 +11,10 @@ Sou apaixonada por conectar a excelência técnica à inovação. Meu objetivo �
 • 🤝 **Iniciativas:** Co-criadora da **Equipe BCK - QA & Learning**. <br>
 
 <p align="right">
-  <img src="https://img.shields.io/badge/Qualidade-00599C?style=for-the-badge&logo=quality&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://www.linkedin.com/in/yasmindcampos/" target="_blank">
+    <img width="50" src="https://files.catbox.moe/qlb3ok.png" style="background: none; border: none; box-shadow: none; />
+  </a>
+  <a href="https://discordapp.com/users/922994417093189693" target="_blank">
+    <img width="50" src="https://files.catbox.moe/h2vgbu.png" />
+  </a>
 </p>
